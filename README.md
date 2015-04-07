@@ -8,8 +8,8 @@ This little app downloads just one page using wget. It will check for Homebrew a
 **How to use:**
 
 > 1. Go to terminal into the MakeItMine directory
-> 2. Type `chmod +x MakeItMine.sh
-> 3. Type ./MakeItMine.sh
+> 2. Type `chmod +x MakeItMine.sh`
+> 3. Type `./MakeItMine.sh`
 > 4. Follow the directions
 
 
